@@ -29,7 +29,7 @@ User persona berisikan informasi-informasi sebagai berikut:
 
 ## Membuat User Persona
 
-- **Header**. Header terdiri dari nama FIktif, photo dan kutipan dari user tersebut.
+- **Header**. Header terdiri dari nama Fiktif, photo dan kutipan dari user tersebut.
 - **Profil Demographic**. Background personal meliputi umur, gender, etnic, pendidikan, dan grup persona.
 - **Personal Background**. Background personal meliputi umur, gender, etnic, penididikan, dan grup persona. <br /> 
   (**Profil Demographic** dan **Personal Background** kurang lebih sama, akan tetapi pada **Profil Demographic** bisa terdapat lokasi tempat tinggal atau kantor)
