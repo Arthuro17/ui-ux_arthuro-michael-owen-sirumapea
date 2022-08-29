@@ -51,7 +51,12 @@ The design thinking framework is based on the philosophy that a hands-on, user-c
 - Implement: Menempatkan visi berlaku. Pastikan bahwa solusi terwujud dan menyentuh kehidupan pengguna akhir kiita.
 
 ## 4. Double Diamond
+A visual representation of the design and innovation process. It's a simple way to describe the steps taken in any design and innovation project, irrespective of methods and tools used.Double Diamond is iterative and non-linear. Each sprint leads the team to new insights that are used to improve the product design. Then the process starts all over again with a new iteration.
 
+- Discover - Proses dimulai dengan mempertanyakan tantangan dan dengan cepat mengarah pada penelitian untuk mengidentifikasi kebutuhan pengguna.
+- Define - Tahap kedua adalah untuk memahami temuan, memahami bagaimana kebutuhan pengguna dan masalah menyelaraskan. Hasilnya adalah membuat ringkasan desain yang dengan jelas mendefinisikan tantangan berdasarkan wawasan ini.
+- Develop - Tahap ketiga berkonsentrasi pada pengembangan, pengujian dan menyempurnakan beberapa solusi potensial.
+- Deliver - Fase terakhir melibatkan pemilihan solusi tunggal yang berfungsi dan mempersiapkannya untuk diluncurkan.
 
 ## 5. Lean UX
 The Lean UX process focuses on reducing wasted time and resources and producing a usable product as quickly as possible. The process is iterative, meaning the team continually updates and revises the product while gathering user research and stakeholder feedback.
