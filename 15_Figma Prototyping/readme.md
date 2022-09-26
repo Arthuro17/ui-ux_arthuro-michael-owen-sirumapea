@@ -24,6 +24,8 @@
 - **Open Link** <br> Membuka external link.
 
 ## Trigger Type in Figma
+- **On Click/Tap** <br> Membuat suatu element atau frame menjadi clickable atau tabable.
+- **On Drag** <br> Menjadikan suatu element atau frame bisa di drag/dipindahkan.
 - **While Pressing** <br> Mengaktifkan animation atau action ketika kondisi mouse pointer "klik" / "tap" dan di hold di suatu elemnt design atau frame.
 - **Keyboard Shortcut** <br> Mereplikasi action keyboard didalam suatu prototype.
 - **Mouse Enter** <br> Mengaktifkan animation atau action ketika kondisi mouse memasuki area action.
