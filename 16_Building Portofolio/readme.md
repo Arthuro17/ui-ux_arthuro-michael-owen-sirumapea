@@ -61,7 +61,8 @@ Selain struktur dari sebuah portfolio yang baik, maka kita harus memperhatikan b
 - Jelaskan poin pembelajaran dari proses yg kamu bangun
 - Nyaman untuk dibaca
 
-<br/>
+###
+
 1. Dapat Diakses Dengan Mudah <br/> Perekrut harus melihat ratusan lamaran pekerjaan sekali waktu. Semakin mudah mereka mengakses portofolio kamu, semakin tinggi kemungkinan mereka melihatnya.
 2. Beritahu Momen-momen Kunci <br/> Say no pada paragraf yang panjang. kamu harus bisa membuat sebuah portofolio desain dengan singkat, sambil membantu perekrut memahami beberapa momen penting dalam cerita yang kamu rangkai dalam portofolio kamu.
 3. Komunikasi Dengan Baik Melalui Portfolio <br/> Perekrut yang bagus sering kali ingin melihat seberapa baik kamu mengartikulasikan masalahnya. Semakin mudah perekrut dapat memahami masalah apa yang kamu pecahkan, semakin tinggi peluang mereka untuk menelusuri sisa portofolio kamu. 
