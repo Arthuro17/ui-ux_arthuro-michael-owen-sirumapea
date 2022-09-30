@@ -70,5 +70,3 @@ Daripada bilang :
 “Ketik email address Anda untuk mengirimkan password.” <br/>
 Coba tulis seperti ini :
 “Kemana ya buat mengirimkan link ini?”
-
-
