@@ -45,20 +45,20 @@ Bagaimana kita tau mendapatkan hasil terbaik? <br/>
 Bagaimana kita memastikan bahwa kita berkomunikasi dengan kemampuan terbaik kita?
 
 ### Sebelum melakukan sesuatu..
-#### Berikan konteks pada masalah yang kita pecahkan
+- **Berikan konteks pada masalah yang kita pecahkan** <br/>
 Desainer adalah pemecah masalah yang kebetulan memecahkan masalah melalui desain. Jelaskan masalahnya dan buat proses itu terlihat seperti kalian membingkai karya desain kamu dengan cara yang lebih baik.
 
-- Jelaskan “siapa” yang memiliki masalah yang kita akan selesaikan <br/>
+- **Jelaskan “siapa” yang memiliki masalah yang kita akan selesaikan** <br/>
 Ketika kita mendesain, kita mendesain untuk users. Seringkali dalam produk atau fitur yang kita rancang, ada orang yang memiliki kebutuhan yang berbeda-beda. Saat kita mempresentasikan pekerjaan kita, khususnya dalam masalah yang kita pecahkan, jelaskan “siapa” yang dilayani oleh pekerjaan itu.
 
-- Perjelas solusi yang diperlukan <br/>
+- **Perjelas solusi yang diperlukan** <br/>
 Pastikan Anda mengkomunikasikan nilai apa yang diberikan atau nilai apa yang kalian coba bawakan melalui desain yang kamu kepada pengguna.
 
-- Komunikasikan kendalanya <br/>
+- **Komunikasikan kendalanya** <br/>
 Orang non-desainer dan desainer biasanya secara alami akan menawarkan solusi alternatif untuk solusi yang kita rancang. Maka kita perlu hati-hati dalam mengkomunikasikan sebuah permasalahan kepada audiens.
 
-- Jelaskan jargon UX <br/>
+- **Jelaskan jargon UX** <br/>
 Sekali lagi, mudah untuk melupakan bahwa tidak semua orang membagikan pengetahuan domain kita sebagai seorang desainer. Jika ada istilah User Experience (UX) yang perlu dipahami untuk memahami pekerjaan yang kita lakukan, maka presentasikan secara keseluruhan, pastikan hal tersebut jelas dan dapat dipahami oleh audiens.
 
-- Jangan mundur dari orang yang membuat kondisi menjadi sulit <br/>
+- **Jangan mundur dari orang yang membuat kondisi menjadi sulit** <br/>
 Terkadang keadaan seperti ini dapat menjadi intens, dan orang-orang tertentu di dalam ruangan bisa menjadi menyulitkan kita. Mungkin mereka sedikit agresif atau terlalu tegas untuk alasan apa pun yang mereka punya. Sebagai presenter, kita harus tetap profesional dan selalu tetap tenang dalam menyikapi audiens yang seperti itu
